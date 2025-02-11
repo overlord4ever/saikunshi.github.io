@@ -18,7 +18,7 @@ announcements: false
 latest_posts: false
 ---
 
-Welcome! I am a 4th-year PhD candidate in Political Economics at Stanford Graduate School of Business. I am broadly interested in American Politics and Political Economy. Among other things, I am especially fascinated by the interaction between political factors and economic activities from two main angles: one that explores how individual labor market participation could shape one’s political ideology, and the other that revolves around how government supervises and intervenes economic activities such as firms’ merger & acquisition behaviors. 
+Welcome! I am a 4th-year PhD candidate in Political Economics at the Stanford Graduate School of Business. I am broadly interested in American politics and political economy. Among other things, I am especially fascinated by the interaction between political factors and economic activities from two main angles: one that explores how individual labor market participation could shape one’s political ideology, and the other that revolves around how government supervises and intervenes in economic activities such as firms’ merger & acquisition behaviors. 
 
-Prior to Stanford, I was a Pre-doctoral Fellow in Microeconomics at Columbia Graduate School of Business. I received my B.A. in Economics and German Studies from Smith College.
+Prior to Stanford, I was a Pre-doctoral Fellow in Microeconomics at Columbia Business School. I received my B.A. in Economics and German Studies from Smith College.
 
